@@ -1,0 +1,9 @@
+.input{
+    background-color:lightblue;
+  }
+  #btn{
+    border-radius:100px;
+    background-color:lightblue;
+    padding: 20px;
+    color:lawngreen;
+  }
